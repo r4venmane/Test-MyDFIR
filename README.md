@@ -1,14 +1,9 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Hi, I'm Taro — an aspiring cybersecurity analyst currently completing the Google Cybersecurity Certificate.
+I'm building a solid foundation in threat detection, internal audits, and vulnerability management. So far, I’ve learned how to conduct internal audits, identify risks to business continuity, and monitor for potential threats that could impact an organization's critical assets.
 
-[Brief Introduction - Remove this afterwards]
+My short-term goal is to land my first role in cybersecurity and start gaining hands-on experience in the field. I'm eager to apply what I’ve learned in real-world scenarios and contribute to building secure systems from the ground up. This portfolio showcases the knowledge and skills I've developed on my journey so far.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+ My objective is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

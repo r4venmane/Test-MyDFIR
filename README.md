@@ -6,7 +6,7 @@ I'm building a solid foundation in threat detection, internal audits, and vulner
 My immediate goal is to land my first role in cybersecurity and start gaining hands-on experience in the field. I'm eager to apply what I’ve learned in real-world scenarios and contribute to building secure systems from the ground up. My portfolio showcases the knowledge and skills I've developed on my journey so far.
 
 
-My Onjective is to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My Objective is to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

@@ -1,9 +1,12 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Taro
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi, I'm Taro — an aspiring cybersecurity analyst currently completing the Google Cybersecurity Certificate.
+I'm building a solid foundation in threat detection, internal audits, and vulnerability management. So far, I’ve learned how to conduct internal audits, identify risks to business continuity, and monitor for potential threats that could impact an organization's critical assets.
+
+My short-term goal is to land my first role in cybersecurity and start gaining hands-on experience in the field. I'm eager to apply what I’ve learned in real-world scenarios and contribute to building secure systems from the ground up. This portfolio showcases the knowledge and skills I've developed on my journey so far.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]

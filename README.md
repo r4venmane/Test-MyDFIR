@@ -3,7 +3,7 @@
 
 Hi, I'm an aspiring cybersecurity analyst currently completing the Google Cybersecurity Certificate.
 I'm building a solid foundation in threat detection, internal audits, and vulnerability management. So far, I’ve learned how to conduct internal audits, identify risks to business continuity, and monitor for potential threats that could impact an organization's critical assets.
-My short-term goal is to land my first role in cybersecurity and start gaining hands-on experience in the field. I'm eager to apply what I’ve learned in real-world scenarios and contribute to building secure systems from the ground up. This portfolio showcases the knowledge and skills I've developed on my journey so far.
+My immediate goal is to land my first role in cybersecurity and start gaining hands-on experience in the field. I'm eager to apply what I’ve learned in real-world scenarios and contribute to building secure systems from the ground up. My portfolio showcases the knowledge and skills I've developed on my journey so far.
 
 
 My Onjective is to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
